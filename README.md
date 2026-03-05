@@ -2,6 +2,9 @@
 
 This dataset shows inference of WGD events from Pandanales using NetEC, a tool for inferring whole genome duplication (WGD) episodes by reconciling gene trees with species trees or networks. It uses dynamic programming to find the minimum number of duplication episodes that explain the observed gene tree duplications.
 
+For the main software package, refer to:
+- https://github.com/ppgorecki/netec
+
 Financial support was provided by the NCN grant 2023/51/B/ST6/02792.
 
 ## Requirements
